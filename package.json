@@ -15,7 +15,9 @@
 		"request": "^2.88.2"
 	},
 	"devDependencies": {
-		"@ui5con20/app": "^1.0.0"
+		"@ui5con20/app": "file:../ui5con20-app",
+		"@ui5/cli": "^2.14.2",
+		"eslint": "^8.5.0"
 	},
 	"ui5": {
 		"dependencies": []
